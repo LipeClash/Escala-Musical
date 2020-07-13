@@ -51,4 +51,4 @@ Ou se estiver no Windows, de um duplo-click no programa ou clique com o botão d
 
 ---
 
-Todos os reservados. SOFTWARE LIVRE, PIRATARIA É CRIME.
+Todos os direitos reservados. SOFTWARE LIVRE, PIRATARIA É CRIME.
